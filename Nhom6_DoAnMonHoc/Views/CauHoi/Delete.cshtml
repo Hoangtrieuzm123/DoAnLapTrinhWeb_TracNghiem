@@ -1,0 +1,13 @@
+﻿@model Nhom6_DoAnMonHoc.Models.CauHoi
+
+<h2>Xóa Câu Hỏi</h2>
+
+<h3>Bạn có chắc chắn muốn xóa câu hỏi '@Model.Cauhoi' không?</h3>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Mach" />
+    <div class="form-group">
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index">Hủy bỏ</a>
+    </div>
+</form>

@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\teacher\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\teacher\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\views\\account\\changerole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\views\\account\\changerole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\teacher\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\teacher\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\views\\cauhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\views\\cauhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\models\\dethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\models\\dethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\models\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\models\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\models\\examsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\models\\examsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\controllers\\dethicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\controllers\\dethicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\models\\userdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\models\\userdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\areas\\admin\\controllers\\dethicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\areas\\admin\\controllers\\dethicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|d:\\l\u1EADp tr\u00ECnh web\\bt ltw\\nhom6_doanmonhoc\\nhom6_doanmonhoc\\views\\dethi\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AFFAA0-D547-42F2-83F8-CD747F820237}|Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc.csproj|solutionrelative:nhom6_doanmonhoc\\views\\dethi\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Teacher\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Teacher\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Teacher\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Teacher\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:35:10.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:33:17.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T15:24:32.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeThi.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\DeThi.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Models\\DeThi.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\DeThi.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Models\\DeThi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:45:57.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvzcAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:44:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Teacher\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Teacher\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Teacher\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Teacher\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv2cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:25:39.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:35:35.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CauHoiController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:17:31.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwIMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:59:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeRole.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\ChangeRole.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\ChangeRole.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\ChangeRole.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\ChangeRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:56:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAA9wGYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:02:16.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:32:22.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T17:17:09.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CauHoi.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\CauHoi.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Models\\CauHoi.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\CauHoi.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Models\\CauHoi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:46:58.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T16:46:43.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Program.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:53:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T15:28:59.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:43:39.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\CauHoi\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Views\\CauHoi\\Index.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\CauHoi\\Index.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Views\\CauHoi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:28:43.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamSubmission.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\ExamSubmission.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Models\\ExamSubmission.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\ExamSubmission.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Models\\ExamSubmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:52:50.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeThiController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Controllers\\DeThiController.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Controllers\\DeThiController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Controllers\\DeThiController.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Controllers\\DeThiController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAwGoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:39:55.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\UserDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Models\\UserDetailsViewModel.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Models\\UserDetailsViewModel.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Models\\UserDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:55:55.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Views\\Account\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:40:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeThiController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\DeThiController.cs",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\DeThiController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\DeThiController.cs",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Areas\\Admin\\Controllers\\DeThiController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:23:16.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\DeThi\\Add.cshtml",
+              "RelativeDocumentMoniker": "Nhom6_DoAnMonHoc\\Views\\DeThi\\Add.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh web\\BT LTW\\Nhom6_DoAnMonHoc\\Nhom6_DoAnMonHoc\\Views\\DeThi\\Add.cshtml",
+              "RelativeToolTip": "Nhom6_DoAnMonHoc\\Views\\DeThi\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T06:38:37.383Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

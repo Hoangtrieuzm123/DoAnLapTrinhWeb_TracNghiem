@@ -1,0 +1,113 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/*Sidebar*/
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 250px;
+    background-color: #343a40;
+    color: #fff;
+}
+
+.sidebar-brand {
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sidebar-nav {
+    padding-left: 0;
+}
+
+    .sidebar-nav a {
+        display: block;
+        padding: 10px 15px;
+        color: #fff;
+    }
+/* Main content */
+.main-content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: .75rem 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.breadcrumb-item {
+    display: inline-block;
+    margin-right: .3rem;
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+    .breadcrumb-item.active {
+        color: #343a40;
+    }
+
+/* Main content */
+.main-content {
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.table th, .table td {
+    text-align: center; /* Căn giữa nội dung của bảng */
+}
+
+.pagination {
+    margin-top: 20px; /* Thêm khoảng cách giữa bảng và phân trang */
+}
+
+
+/* custom.css */
+.card-header {
+    background-color: #007bff; /* Màu nền cho header của card */
+    color: white; /* Màu chữ cho header */
+}
+
+.btn-primary {
+    background-color: #0056b3; /* Đậm màu hơn cho nút Lưu */
+    border-color: #004085; /* Màu viền cho nút */
+}
+
+.btn-secondary {
+    background-color: #6c757d; /* Màu cho nút Quay lại */
+    border-color: #545b62; /* Màu viền cho nút */
+}
+
+/* Tùy chỉnh padding cho card body để tạo khoảng cách dễ chịu hơn */
+.card-body {
+    padding: 20px;
+}
+
+/* Tạo khoảng cách giữa các form-group */
+.form-group {
+    margin-bottom: 1rem;
+}

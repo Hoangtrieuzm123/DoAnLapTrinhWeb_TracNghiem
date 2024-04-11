@@ -1,0 +1,13 @@
+﻿@model Nhom6_DoAnMonHoc.Models.DeThi
+
+<h2>Xóa Đề Thi</h2>
+
+<h3>Bạn có chắc chắn muốn xóa đề thi '@Model.Tendt' không?</h3>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="Madt" />
+    <div class="form-group">
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index">Hủy bỏ</a>
+    </div>
+</form>

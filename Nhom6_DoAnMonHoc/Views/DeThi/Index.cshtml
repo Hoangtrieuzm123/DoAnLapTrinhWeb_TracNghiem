@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Nhom6_DoAnMonHoc.Models.DeThi>
+
+<h2>Danh Sách Đề Thi</h2>
+
+<a class="btn btn-primary" asp-controller="DeThi" asp-action="Add">Thêm Đề Thi </a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên Đề Thi</th>
+            <th>Thời Gian Thi</th>
+            <th>Số Lượng Câu Hỏi</th>
+            <th>Mô Tả</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Tendt</td>
+                <td>@item.Thoigianthi</td>
+                <td>@item.Soluongcauhoi</td>
+                <td>@item.Mota</td>
+                <td>
+                    <a href="@Url.Action("Update", "DeThi", new { id = item.Madt })">Edit</a> |
+                    <a href="@Url.Action("Delete", "DeThi", new { id = item.Madt })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
